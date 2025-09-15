@@ -1,0 +1,14 @@
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/bin/Debug/net8.0/crudsazo
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/bin/Debug/net8.0/crudsazo.deps.json
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/bin/Debug/net8.0/crudsazo.runtimeconfig.json
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/bin/Debug/net8.0/crudsazo.dll
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/bin/Debug/net8.0/crudsazo.pdb
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/crudsazo.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/crudsazo.AssemblyInfoInputs.cache
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/crudsazo.AssemblyInfo.cs
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/crudsazo.csproj.CoreCompileInputs.cache
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/crudsazo.dll
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/refint/crudsazo.dll
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/crudsazo.pdb
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/crudsazo.genruntimeconfig.cache
+/home/diego/Documents/diego_dev/crud_sazo/crudsazo/obj/Debug/net8.0/ref/crudsazo.dll
